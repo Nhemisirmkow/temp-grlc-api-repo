@@ -1,3 +1,4 @@
+#+ summary: Gets names of Hard Rock bands from Dbpedia.
 #+ endpoint: http://dbpedia.org/sparql
 
 PREFIX dbo: <http://dbpedia.org/ontology/>
